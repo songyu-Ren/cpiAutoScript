@@ -1,0 +1,353 @@
+{
+    "feed": {
+        "id": "https://c5e96ae0trial.it-cpitrial06.cfapps.us10-001.hana.ondemand.com:10443/api/v1/IntegrationPackages",
+        "title": {
+            "@type": "text",
+            "#text": "IntegrationPackages"
+        },
+        "updated": "2024-03-12T08:19:53.829Z",
+        "author": {
+            "name": null
+        },
+        "link": {
+            "@href": "IntegrationPackages",
+            "@rel": "self",
+            "@title": "IntegrationPackages"
+        },
+        "entry": [
+            {
+                "id": "https://c5e96ae0trial.it-cpitrial06.cfapps.us10-001.hana.ondemand.com:10443/api/v1/IntegrationPackages('BTPTraining')",
+                "title": {
+                    "@type": "text",
+                    "#text": "IntegrationPackages"
+                },
+                "updated": "2024-03-12T08:19:53.829Z",
+                "category": {
+                    "@term": "com.sap.hci.api.IntegrationPackage",
+                    "@scheme": "http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+                },
+                "link": [
+                    {
+                        "@href": "IntegrationPackages('BTPTraining')",
+                        "@rel": "edit",
+                        "@title": "IntegrationPackage"
+                    },
+                    {
+                        "@href": "IntegrationPackages('BTPTraining')/$value",
+                        "@rel": "edit-media",
+                        "@type": "application/octet-stream"
+                    },
+                    {
+                        "@href": "IntegrationPackages('BTPTraining')/IntegrationDesigntimeArtifacts",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/IntegrationDesigntimeArtifacts",
+                        "@title": "IntegrationDesigntimeArtifacts",
+                        "@type": "application/atom+xml;type=feed"
+                    },
+                    {
+                        "@href": "IntegrationPackages('BTPTraining')/ValueMappingDesigntimeArtifacts",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/ValueMappingDesigntimeArtifacts",
+                        "@title": "ValueMappingDesigntimeArtifacts",
+                        "@type": "application/atom+xml;type=feed"
+                    },
+                    {
+                        "@href": "IntegrationPackages('BTPTraining')/MessageMappingDesigntimeArtifacts",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/MessageMappingDesigntimeArtifacts",
+                        "@title": "MessageMappingDesigntimeArtifacts",
+                        "@type": "application/atom+xml;type=feed"
+                    },
+                    {
+                        "@href": "IntegrationPackages('BTPTraining')/ScriptCollectionDesigntimeArtifacts",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/ScriptCollectionDesigntimeArtifacts",
+                        "@title": "ScriptCollectionDesigntimeArtifacts",
+                        "@type": "application/atom+xml;type=feed"
+                    },
+                    {
+                        "@href": "IntegrationPackages('BTPTraining')/CustomTags",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/CustomTags",
+                        "@title": "CustomTags",
+                        "@type": "application/atom+xml;type=feed"
+                    }
+                ],
+                "content": {
+                    "@type": "application/octet-stream",
+                    "@src": "IntegrationPackages('BTPTraining')/$value"
+                },
+                "properties1": {
+                    "Id": "BTPTraining",
+                    "Name": "BTPTraining",
+                    "ResourceId": "9284333b118a440d94187e300885664c",
+                    "Description": "<p></p>",
+                    "ShortText": "Created for training purpose",
+                    "Version": "1",
+                    "Vendor": "Internal",
+                    "PartnerContent": "false",
+                    "UpdateAvailable": "false",
+                    "Mode": "EDIT_ALLOWED",
+                    "SupportedPlatform": "Cloud Integration",
+                    "ModifiedBy": "nishal.deonarain@accenture.com",
+                    "CreationDate": "1710153827040",
+                    "ModifiedDate": "1710153827051",
+                    "CreatedBy": "nishal.deonarain@accenture.com",
+                    "Products": null,
+                    "Keywords": null,
+                    "Countries": null,
+                    "Industries": null,
+                    "LineOfBusiness": null,
+                    "PackageContent": {
+                        "@null": "true"
+                    }
+                }
+            },
+            {
+                "id": "https://c5e96ae0trial.it-cpitrial06.cfapps.us10-001.hana.ondemand.com:10443/api/v1/IntegrationPackages('CertificationPackage')",
+                "title": {
+                    "@type": "text",
+                    "#text": "IntegrationPackages"
+                },
+                "updated": "2024-03-12T08:19:53.829Z",
+                "category": {
+                    "@term": "com.sap.hci.api.IntegrationPackage",
+                    "@scheme": "http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+                },
+                "link": [
+                    {
+                        "@href": "IntegrationPackages('CertificationPackage')",
+                        "@rel": "edit",
+                        "@title": "IntegrationPackage"
+                    },
+                    {
+                        "@href": "IntegrationPackages('CertificationPackage')/$value",
+                        "@rel": "edit-media",
+                        "@type": "application/octet-stream"
+                    },
+                    {
+                        "@href": "IntegrationPackages('CertificationPackage')/IntegrationDesigntimeArtifacts",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/IntegrationDesigntimeArtifacts",
+                        "@title": "IntegrationDesigntimeArtifacts",
+                        "@type": "application/atom+xml;type=feed"
+                    },
+                    {
+                        "@href": "IntegrationPackages('CertificationPackage')/ValueMappingDesigntimeArtifacts",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/ValueMappingDesigntimeArtifacts",
+                        "@title": "ValueMappingDesigntimeArtifacts",
+                        "@type": "application/atom+xml;type=feed"
+                    },
+                    {
+                        "@href": "IntegrationPackages('CertificationPackage')/MessageMappingDesigntimeArtifacts",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/MessageMappingDesigntimeArtifacts",
+                        "@title": "MessageMappingDesigntimeArtifacts",
+                        "@type": "application/atom+xml;type=feed"
+                    },
+                    {
+                        "@href": "IntegrationPackages('CertificationPackage')/ScriptCollectionDesigntimeArtifacts",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/ScriptCollectionDesigntimeArtifacts",
+                        "@title": "ScriptCollectionDesigntimeArtifacts",
+                        "@type": "application/atom+xml;type=feed"
+                    },
+                    {
+                        "@href": "IntegrationPackages('CertificationPackage')/CustomTags",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/CustomTags",
+                        "@title": "CustomTags",
+                        "@type": "application/atom+xml;type=feed"
+                    }
+                ],
+                "content": {
+                    "@type": "application/octet-stream",
+                    "@src": "IntegrationPackages('CertificationPackage')/$value"
+                },
+                "properties2": {
+                    "Id": "CertificationPackage",
+                    "Name": "CertificationPackage",
+                    "ResourceId": "c38f409dae454bbc985a65dd5293148f",
+                    "Description": "<p></p>",
+                    "ShortText": "SAP Integration Suite - Certification Package",
+                    "Version": "1.0",
+                    "Vendor": "SAP",
+                    "PartnerContent": "false",
+                    "UpdateAvailable": "false",
+                    "Mode": "EDIT_ALLOWED",
+                    "SupportedPlatform": "Cloud Integration",
+                    "ModifiedBy": "nishal.deonarain@accenture.com",
+                    "CreationDate": "1708529666067",
+                    "ModifiedDate": "1708529666075",
+                    "CreatedBy": "nishal.deonarain@accenture.com",
+                    "Products": null,
+                    "Keywords": null,
+                    "Countries": null,
+                    "Industries": null,
+                    "LineOfBusiness": null,
+                    "PackageContent": {
+                        "@null": "true"
+                    }
+                }
+            },
+            {
+                "id": "https://c5e96ae0trial.it-cpitrial06.cfapps.us10-001.hana.ondemand.com:10443/api/v1/IntegrationPackages('DesignGuidelinesModelingBasics')",
+                "title": {
+                    "@type": "text",
+                    "#text": "IntegrationPackages"
+                },
+                "updated": "2024-03-12T08:19:53.829Z",
+                "category": {
+                    "@term": "com.sap.hci.api.IntegrationPackage",
+                    "@scheme": "http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+                },
+                "link": [
+                    {
+                        "@href": "IntegrationPackages('DesignGuidelinesModelingBasics')",
+                        "@rel": "edit",
+                        "@title": "IntegrationPackage"
+                    },
+                    {
+                        "@href": "IntegrationPackages('DesignGuidelinesModelingBasics')/$value",
+                        "@rel": "edit-media",
+                        "@type": "application/octet-stream"
+                    },
+                    {
+                        "@href": "IntegrationPackages('DesignGuidelinesModelingBasics')/IntegrationDesigntimeArtifacts",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/IntegrationDesigntimeArtifacts",
+                        "@title": "IntegrationDesigntimeArtifacts",
+                        "@type": "application/atom+xml;type=feed"
+                    },
+                    {
+                        "@href": "IntegrationPackages('DesignGuidelinesModelingBasics')/ValueMappingDesigntimeArtifacts",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/ValueMappingDesigntimeArtifacts",
+                        "@title": "ValueMappingDesigntimeArtifacts",
+                        "@type": "application/atom+xml;type=feed"
+                    },
+                    {
+                        "@href": "IntegrationPackages('DesignGuidelinesModelingBasics')/MessageMappingDesigntimeArtifacts",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/MessageMappingDesigntimeArtifacts",
+                        "@title": "MessageMappingDesigntimeArtifacts",
+                        "@type": "application/atom+xml;type=feed"
+                    },
+                    {
+                        "@href": "IntegrationPackages('DesignGuidelinesModelingBasics')/ScriptCollectionDesigntimeArtifacts",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/ScriptCollectionDesigntimeArtifacts",
+                        "@title": "ScriptCollectionDesigntimeArtifacts",
+                        "@type": "application/atom+xml;type=feed"
+                    },
+                    {
+                        "@href": "IntegrationPackages('DesignGuidelinesModelingBasics')/CustomTags",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/CustomTags",
+                        "@title": "CustomTags",
+                        "@type": "application/atom+xml;type=feed"
+                    }
+                ],
+                "content": {
+                    "@type": "application/octet-stream",
+                    "@src": "IntegrationPackages('DesignGuidelinesModelingBasics')/$value"
+                },
+                "properties3": {
+                    "Id": "DesignGuidelinesModelingBasics",
+                    "Name": "Integration Flow Design Guidelines - Learn the Basics",
+                    "ResourceId": "727c14bbc63544a0b5626399ebb5ea53",
+                    "Description": "<p>More details on the guidelines covered in this integration package can be found on <a href=\"https://help.sap.com/viewer/368c481cd6954bdfa5d0435479fd4eaf/Cloud/en-US/ebc6034cd1044e4093683cf61425175a.html\" rel=\"nofollow\">SAP Help Portal</a>.</p> \n<p>The&nbsp; <a href=\"https://help.sap.com/viewer/368c481cd6954bdfa5d0435479fd4eaf/Cloud/en-US/03e69592b8f04bf5aa350966802f994b.html\" rel=\"nofollow\">documentation&nbsp;</a>explains as well how to work with the Postman collection attached to this integration package.</p>",
+                    "ShortText": "This integration package contains integration flows to illustrate the design guidelines for modeling integration flows.",
+                    "Version": "1.10.0",
+                    "Vendor": "SAP",
+                    "PartnerContent": "false",
+                    "UpdateAvailable": "false",
+                    "Mode": "EDIT_ALLOWED",
+                    "SupportedPlatform": "Cloud Integration",
+                    "ModifiedBy": "nishal.deonarain@accenture.com",
+                    "CreationDate": "1708528868867",
+                    "ModifiedDate": "1708528868875",
+                    "CreatedBy": "nishal.deonarain@accenture.com",
+                    "Products": null,
+                    "Keywords": "Getting Started,Guidelines,Examples,Best Practices",
+                    "Countries": null,
+                    "Industries": null,
+                    "LineOfBusiness": null,
+                    "PackageContent": {
+                        "@null": "true"
+                    }
+                }
+            },
+            {
+                "id": "https://c5e96ae0trial.it-cpitrial06.cfapps.us10-001.hana.ondemand.com:10443/api/v1/IntegrationPackages('test')",
+                "title": {
+                    "@type": "text",
+                    "#text": "IntegrationPackages"
+                },
+                "updated": "2024-03-12T08:19:53.829Z",
+                "category": {
+                    "@term": "com.sap.hci.api.IntegrationPackage",
+                    "@scheme": "http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+                },
+                "link": [
+                    {
+                        "@href": "IntegrationPackages('test')",
+                        "@rel": "edit",
+                        "@title": "IntegrationPackage"
+                    },
+                    {
+                        "@href": "IntegrationPackages('test')/$value",
+                        "@rel": "edit-media",
+                        "@type": "application/octet-stream"
+                    },
+                    {
+                        "@href": "IntegrationPackages('test')/IntegrationDesigntimeArtifacts",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/IntegrationDesigntimeArtifacts",
+                        "@title": "IntegrationDesigntimeArtifacts",
+                        "@type": "application/atom+xml;type=feed"
+                    },
+                    {
+                        "@href": "IntegrationPackages('test')/ValueMappingDesigntimeArtifacts",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/ValueMappingDesigntimeArtifacts",
+                        "@title": "ValueMappingDesigntimeArtifacts",
+                        "@type": "application/atom+xml;type=feed"
+                    },
+                    {
+                        "@href": "IntegrationPackages('test')/MessageMappingDesigntimeArtifacts",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/MessageMappingDesigntimeArtifacts",
+                        "@title": "MessageMappingDesigntimeArtifacts",
+                        "@type": "application/atom+xml;type=feed"
+                    },
+                    {
+                        "@href": "IntegrationPackages('test')/ScriptCollectionDesigntimeArtifacts",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/ScriptCollectionDesigntimeArtifacts",
+                        "@title": "ScriptCollectionDesigntimeArtifacts",
+                        "@type": "application/atom+xml;type=feed"
+                    },
+                    {
+                        "@href": "IntegrationPackages('test')/CustomTags",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/CustomTags",
+                        "@title": "CustomTags",
+                        "@type": "application/atom+xml;type=feed"
+                    }
+                ],
+                "content": {
+                    "@type": "application/octet-stream",
+                    "@src": "IntegrationPackages('test')/$value"
+                },
+                "properties4": {
+                    "Id": "test",
+                    "Name": "test",
+                    "ResourceId": "4bfb32ec004240e5846ca41f6e929789",
+                    "Description": "<p></p>",
+                    "ShortText": "test",
+                    "Version": "1.0",
+                    "Vendor": null,
+                    "PartnerContent": "false",
+                    "UpdateAvailable": "false",
+                    "Mode": "EDIT_ALLOWED",
+                    "SupportedPlatform": "Cloud Integration",
+                    "ModifiedBy": "nishal.deonarain@accenture.com",
+                    "CreationDate": "1708523496452",
+                    "ModifiedDate": "1708523496455",
+                    "CreatedBy": "nishal.deonarain@accenture.com",
+                    "Products": null,
+                    "Keywords": null,
+                    "Countries": null,
+                    "Industries": null,
+                    "LineOfBusiness": null,
+                    "PackageContent": {
+                        "@null": "true"
+                    }
+                }
+            }
+        ],
+        "@base": "https://c5e96ae0trial.it-cpitrial06.cfapps.us10-001.hana.ondemand.com:10443/api/v1/"
+    }
+}

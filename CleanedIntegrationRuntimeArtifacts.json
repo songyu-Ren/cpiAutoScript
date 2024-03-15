@@ -1,0 +1,365 @@
+{
+    "feed": {
+        "id": "https://c5e96ae0trial.it-cpitrial06.cfapps.us10-001.hana.ondemand.com/api/v1/IntegrationRuntimeArtifacts",
+        "title": {
+            "@type": "text",
+            "#text": "IntegrationRuntimeArtifacts"
+        },
+        "updated": "2024-03-12T08:25:40.243Z",
+        "author": {
+            "name": null
+        },
+        "link": {
+            "@href": "IntegrationRuntimeArtifacts",
+            "@rel": "self",
+            "@title": "IntegrationRuntimeArtifacts"
+        },
+        "entry": [
+            {
+                "id": "https://c5e96ae0trial.it-cpitrial06.cfapps.us10-001.hana.ondemand.com/api/v1/IntegrationRuntimeArtifacts('demoSimpleFlow')",
+                "title": {
+                    "@type": "text",
+                    "#text": "IntegrationRuntimeArtifacts"
+                },
+                "updated": "2024-03-12T08:25:40.245Z",
+                "category": {
+                    "@term": "com.sap.hci.api.IntegrationRuntimeArtifact",
+                    "@scheme": "http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+                },
+                "link": [
+                    {
+                        "@href": "IntegrationRuntimeArtifacts('demoSimpleFlow')",
+                        "@rel": "edit",
+                        "@title": "IntegrationRuntimeArtifact"
+                    },
+                    {
+                        "@href": "IntegrationRuntimeArtifacts('demoSimpleFlow')/$value",
+                        "@rel": "edit-media",
+                        "@type": "application/octet-stream"
+                    },
+                    {
+                        "@href": "IntegrationRuntimeArtifacts('demoSimpleFlow')/ErrorInformation",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/ErrorInformation",
+                        "@title": "ErrorInformation",
+                        "@type": "application/atom+xml;type=entry"
+                    }
+                ],
+                "content": {
+                    "@type": "application/octet-stream",
+                    "@src": "IntegrationRuntimeArtifacts('demoSimpleFlow')/$value"
+                },
+                "properties": {
+                    "Id": "demoSimpleFlow",
+                    "Version": "1.0.3",
+                    "Name": "demoSimpleFlow",
+                    "Type": "INTEGRATION_FLOW",
+                    "DeployedBy": "nishal.deonarain@accenture.com",
+                    "DeployedOn": "2024-03-11T12:04:33.021",
+                    "Status": "STARTED"
+                }
+            },
+            {
+                "id": "https://c5e96ae0trial.it-cpitrial06.cfapps.us10-001.hana.ondemand.com/api/v1/IntegrationRuntimeArtifacts('Step5')",
+                "title": {
+                    "@type": "text",
+                    "#text": "IntegrationRuntimeArtifacts"
+                },
+                "updated": "2024-03-12T08:25:40.246Z",
+                "category": {
+                    "@term": "com.sap.hci.api.IntegrationRuntimeArtifact",
+                    "@scheme": "http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+                },
+                "link": [
+                    {
+                        "@href": "IntegrationRuntimeArtifacts('Step5')",
+                        "@rel": "edit",
+                        "@title": "IntegrationRuntimeArtifact"
+                    },
+                    {
+                        "@href": "IntegrationRuntimeArtifacts('Step5')/$value",
+                        "@rel": "edit-media",
+                        "@type": "application/octet-stream"
+                    },
+                    {
+                        "@href": "IntegrationRuntimeArtifacts('Step5')/ErrorInformation",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/ErrorInformation",
+                        "@title": "ErrorInformation",
+                        "@type": "application/atom+xml;type=entry"
+                    }
+                ],
+                "content": {
+                    "@type": "application/octet-stream",
+                    "@src": "IntegrationRuntimeArtifacts('Step5')/$value"
+                },
+                "properties": {
+                    "Id": "Step5",
+                    "Version": "1.0.2",
+                    "Name": "Step5",
+                    "Type": "INTEGRATION_FLOW",
+                    "DeployedBy": "nishal.deonarain@accenture.com",
+                    "DeployedOn": "2024-03-11T10:38:13.764",
+                    "Status": "STARTED"
+                }
+            },
+            {
+                "id": "https://c5e96ae0trial.it-cpitrial06.cfapps.us10-001.hana.ondemand.com/api/v1/IntegrationRuntimeArtifacts('Step14')",
+                "title": {
+                    "@type": "text",
+                    "#text": "IntegrationRuntimeArtifacts"
+                },
+                "updated": "2024-03-12T08:25:40.246Z",
+                "category": {
+                    "@term": "com.sap.hci.api.IntegrationRuntimeArtifact",
+                    "@scheme": "http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+                },
+                "link": [
+                    {
+                        "@href": "IntegrationRuntimeArtifacts('Step14')",
+                        "@rel": "edit",
+                        "@title": "IntegrationRuntimeArtifact"
+                    },
+                    {
+                        "@href": "IntegrationRuntimeArtifacts('Step14')/$value",
+                        "@rel": "edit-media",
+                        "@type": "application/octet-stream"
+                    },
+                    {
+                        "@href": "IntegrationRuntimeArtifacts('Step14')/ErrorInformation",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/ErrorInformation",
+                        "@title": "ErrorInformation",
+                        "@type": "application/atom+xml;type=entry"
+                    }
+                ],
+                "content": {
+                    "@type": "application/octet-stream",
+                    "@src": "IntegrationRuntimeArtifacts('Step14')/$value"
+                },
+                "properties": {
+                    "Id": "Step14",
+                    "Version": "1.0.2",
+                    "Name": "Step14",
+                    "Type": "INTEGRATION_FLOW",
+                    "DeployedBy": "nishal.deonarain@accenture.com",
+                    "DeployedOn": "2024-02-25T06:45:27.320",
+                    "Status": "STARTED"
+                }
+            },
+            {
+                "id": "https://c5e96ae0trial.it-cpitrial06.cfapps.us10-001.hana.ondemand.com/api/v1/IntegrationRuntimeArtifacts('Step16')",
+                "title": {
+                    "@type": "text",
+                    "#text": "IntegrationRuntimeArtifacts"
+                },
+                "updated": "2024-03-12T08:25:40.246Z",
+                "category": {
+                    "@term": "com.sap.hci.api.IntegrationRuntimeArtifact",
+                    "@scheme": "http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+                },
+                "link": [
+                    {
+                        "@href": "IntegrationRuntimeArtifacts('Step16')",
+                        "@rel": "edit",
+                        "@title": "IntegrationRuntimeArtifact"
+                    },
+                    {
+                        "@href": "IntegrationRuntimeArtifacts('Step16')/$value",
+                        "@rel": "edit-media",
+                        "@type": "application/octet-stream"
+                    },
+                    {
+                        "@href": "IntegrationRuntimeArtifacts('Step16')/ErrorInformation",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/ErrorInformation",
+                        "@title": "ErrorInformation",
+                        "@type": "application/atom+xml;type=entry"
+                    }
+                ],
+                "content": {
+                    "@type": "application/octet-stream",
+                    "@src": "IntegrationRuntimeArtifacts('Step16')/$value"
+                },
+                "properties": {
+                    "Id": "Step16",
+                    "Version": "1.0.2",
+                    "Name": "Step16",
+                    "Type": "INTEGRATION_FLOW",
+                    "DeployedBy": "nishal.deonarain@accenture.com",
+                    "DeployedOn": "2024-02-25T06:40:09.272",
+                    "Status": "STARTED"
+                }
+            },
+            {
+                "id": "https://c5e96ae0trial.it-cpitrial06.cfapps.us10-001.hana.ondemand.com/api/v1/IntegrationRuntimeArtifacts('Step17')",
+                "title": {
+                    "@type": "text",
+                    "#text": "IntegrationRuntimeArtifacts"
+                },
+                "updated": "2024-03-12T08:25:40.246Z",
+                "category": {
+                    "@term": "com.sap.hci.api.IntegrationRuntimeArtifact",
+                    "@scheme": "http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+                },
+                "link": [
+                    {
+                        "@href": "IntegrationRuntimeArtifacts('Step17')",
+                        "@rel": "edit",
+                        "@title": "IntegrationRuntimeArtifact"
+                    },
+                    {
+                        "@href": "IntegrationRuntimeArtifacts('Step17')/$value",
+                        "@rel": "edit-media",
+                        "@type": "application/octet-stream"
+                    },
+                    {
+                        "@href": "IntegrationRuntimeArtifacts('Step17')/ErrorInformation",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/ErrorInformation",
+                        "@title": "ErrorInformation",
+                        "@type": "application/atom+xml;type=entry"
+                    }
+                ],
+                "content": {
+                    "@type": "application/octet-stream",
+                    "@src": "IntegrationRuntimeArtifacts('Step17')/$value"
+                },
+                "properties": {
+                    "Id": "Step17",
+                    "Version": "1.0.1",
+                    "Name": "Step17",
+                    "Type": "INTEGRATION_FLOW",
+                    "DeployedBy": "nishal.deonarain@accenture.com",
+                    "DeployedOn": "2024-02-25T06:07:48.514",
+                    "Status": "STARTED"
+                }
+            },
+            {
+                "id": "https://c5e96ae0trial.it-cpitrial06.cfapps.us10-001.hana.ondemand.com/api/v1/IntegrationRuntimeArtifacts('Step6')",
+                "title": {
+                    "@type": "text",
+                    "#text": "IntegrationRuntimeArtifacts"
+                },
+                "updated": "2024-03-12T08:25:40.246Z",
+                "category": {
+                    "@term": "com.sap.hci.api.IntegrationRuntimeArtifact",
+                    "@scheme": "http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+                },
+                "link": [
+                    {
+                        "@href": "IntegrationRuntimeArtifacts('Step6')",
+                        "@rel": "edit",
+                        "@title": "IntegrationRuntimeArtifact"
+                    },
+                    {
+                        "@href": "IntegrationRuntimeArtifacts('Step6')/$value",
+                        "@rel": "edit-media",
+                        "@type": "application/octet-stream"
+                    },
+                    {
+                        "@href": "IntegrationRuntimeArtifacts('Step6')/ErrorInformation",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/ErrorInformation",
+                        "@title": "ErrorInformation",
+                        "@type": "application/atom+xml;type=entry"
+                    }
+                ],
+                "content": {
+                    "@type": "application/octet-stream",
+                    "@src": "IntegrationRuntimeArtifacts('Step6')/$value"
+                },
+                "properties": {
+                    "Id": "Step6",
+                    "Version": "1.0.1",
+                    "Name": "Step6",
+                    "Type": "INTEGRATION_FLOW",
+                    "DeployedBy": "nishal.deonarain@accenture.com",
+                    "DeployedOn": "2024-02-21T20:25:42.025",
+                    "Status": "STARTED"
+                }
+            },
+            {
+                "id": "https://c5e96ae0trial.it-cpitrial06.cfapps.us10-001.hana.ondemand.com/api/v1/IntegrationRuntimeArtifacts('Step1')",
+                "title": {
+                    "@type": "text",
+                    "#text": "IntegrationRuntimeArtifacts"
+                },
+                "updated": "2024-03-12T08:25:40.246Z",
+                "category": {
+                    "@term": "com.sap.hci.api.IntegrationRuntimeArtifact",
+                    "@scheme": "http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+                },
+                "link": [
+                    {
+                        "@href": "IntegrationRuntimeArtifacts('Step1')",
+                        "@rel": "edit",
+                        "@title": "IntegrationRuntimeArtifact"
+                    },
+                    {
+                        "@href": "IntegrationRuntimeArtifacts('Step1')/$value",
+                        "@rel": "edit-media",
+                        "@type": "application/octet-stream"
+                    },
+                    {
+                        "@href": "IntegrationRuntimeArtifacts('Step1')/ErrorInformation",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/ErrorInformation",
+                        "@title": "ErrorInformation",
+                        "@type": "application/atom+xml;type=entry"
+                    }
+                ],
+                "content": {
+                    "@type": "application/octet-stream",
+                    "@src": "IntegrationRuntimeArtifacts('Step1')/$value"
+                },
+                "properties": {
+                    "Id": "Step1",
+                    "Version": "1.0.0",
+                    "Name": "Step1",
+                    "Type": "INTEGRATION_FLOW",
+                    "DeployedBy": "nishal.deonarain@accenture.com",
+                    "DeployedOn": "2024-02-21T15:45:51.018",
+                    "Status": "STARTED"
+                }
+            },
+            {
+                "id": "https://c5e96ae0trial.it-cpitrial06.cfapps.us10-001.hana.ondemand.com/api/v1/IntegrationRuntimeArtifacts('GenericReceiver_ModelingBasics')",
+                "title": {
+                    "@type": "text",
+                    "#text": "IntegrationRuntimeArtifacts"
+                },
+                "updated": "2024-03-12T08:25:40.246Z",
+                "category": {
+                    "@term": "com.sap.hci.api.IntegrationRuntimeArtifact",
+                    "@scheme": "http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"
+                },
+                "link": [
+                    {
+                        "@href": "IntegrationRuntimeArtifacts('GenericReceiver_ModelingBasics')",
+                        "@rel": "edit",
+                        "@title": "IntegrationRuntimeArtifact"
+                    },
+                    {
+                        "@href": "IntegrationRuntimeArtifacts('GenericReceiver_ModelingBasics')/$value",
+                        "@rel": "edit-media",
+                        "@type": "application/octet-stream"
+                    },
+                    {
+                        "@href": "IntegrationRuntimeArtifacts('GenericReceiver_ModelingBasics')/ErrorInformation",
+                        "@rel": "http://schemas.microsoft.com/ado/2007/08/dataservices/related/ErrorInformation",
+                        "@title": "ErrorInformation",
+                        "@type": "application/atom+xml;type=entry"
+                    }
+                ],
+                "content": {
+                    "@type": "application/octet-stream",
+                    "@src": "IntegrationRuntimeArtifacts('GenericReceiver_ModelingBasics')/$value"
+                },
+                "properties": {
+                    "Id": "GenericReceiver_ModelingBasics",
+                    "Version": "1.0.0",
+                    "Name": "Generic Receiver",
+                    "Type": "INTEGRATION_FLOW",
+                    "DeployedBy": "nishal.deonarain@accenture.com",
+                    "DeployedOn": "2024-02-21T15:24:24.385",
+                    "Status": "STARTED"
+                }
+            }
+        ],
+        "@base": "https://c5e96ae0trial.it-cpitrial06.cfapps.us10-001.hana.ondemand.com/api/v1/"
+    }
+}
